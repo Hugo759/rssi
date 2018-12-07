@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: bt-proximity
+Version: 0.1
+Summary: Allows for querying of the RSSI values for nearby devices using pybluez. Ported to Python 3, based on https://github.com/ewenchou/bluetooth-proximity
+Home-page: https://github.com/FrederikBolding/bluetooth-proximity
+Author: Frederik Bolding
+Author-email: frederik.bolding@gmail.com
+License: Apache 2.0
+Description: UNKNOWN
+Platform: UNKNOWN
